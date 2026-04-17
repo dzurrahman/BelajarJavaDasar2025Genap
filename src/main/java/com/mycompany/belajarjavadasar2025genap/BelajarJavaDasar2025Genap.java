@@ -11,6 +11,7 @@ package com.mycompany.belajarjavadasar2025genap;
 public class BelajarJavaDasar2025Genap {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Hello World! Saya sedang belajar Java.");
+        System.out.println("Belajar Java itu mudah.");
     }
 }
